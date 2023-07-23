@@ -53,7 +53,7 @@
 
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=e%20rer&username=jlinaresmedalla" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Stats&username=jlinaresmedalla" height="150" alt="stats graph"  />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dark&hide_border=false&custom_title=Los%20lenguajes%20de%20mis%20proyectos%20ac%C3%A1&username=jlinaresmedalla" height="150" alt="languages graph"  />-->
 </div>
 
