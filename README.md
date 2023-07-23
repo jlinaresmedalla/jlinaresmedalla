@@ -4,7 +4,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 160px></picture>
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=200px></picture>
 - :school: I am Junior backend developer from Oracle One Next Generation.
 - :technologist: Passionate software developer with a solid background in Java and Spring.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
