@@ -15,7 +15,7 @@
 - :email: Contact: `jlinaresmedalla@gamil.com`.
 
 <br>
-<h2 align="left">Stack :computer:</h2>
+<h2 align="left">:computer: Stack</h2>
 
 ###
 
