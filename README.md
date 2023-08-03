@@ -15,15 +15,11 @@
 - :email: Contact: `jlinaresmedalla@gamil.com`.
 
 <br>
-<h2 align="left">:computer: Stack</h2>
+<h2 align="left">:computer: Main Stack</h2>
 
 ###
 
 <p align="center"> 
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>  
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="docker" width="40" height="40"/></a> 
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" width="40" height="40"/></a> 
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="spring" width="40" height="40"/></a> 
@@ -36,7 +32,17 @@
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="heroku" width="40" height="40"/></a> 
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="heroku" width="40" height="40"/></a> 
 </p>
+<br>
+<h2 align="left">:computer: Secondary Stack</h2>
 
+###
+
+<p align="center"> 
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>  
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="docker" width="40" height="40"/></a> 
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" width="40" height="40"/></a> 
+</p>
 <h2 align="left">:computer: IDE's</h2>
 <p align="center"> 
 <a href="#"> <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" alt="IntellIj" width="40" height="40"/></a>  
