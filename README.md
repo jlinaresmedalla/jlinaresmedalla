@@ -5,12 +5,11 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=230px></picture>
-- :school: I am Junior backend developer from Oracle One Next Generation.
-- :technologist: Passionate software developer with a solid background in Java and Spring.
+- :school: I am Junior software developer from Oracle One Next Generation.
+- :technologist: Passionate software developer with a solid background in Js, Ts and Java.
 - :sparkles: Improving my soft skills day a day.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always learning new things.
-- :briefcase: I’m currently open for a new `job opportunity`.
 - :sparkles: My hobbies are playing videogames, soccer and ping pong.
 - :email: Contact: `jlinaresmedalla@gamil.com`.
 
