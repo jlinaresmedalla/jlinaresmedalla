@@ -1,14 +1,13 @@
 <h1 align="center">Hi there, I'm Juan Linares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=45&center=true&vCenter=true&width=900&height=80&lines=Software+developer;Computer+Science+Student;Competitive+Programmer;Interested+in+microservices;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=45&center=true&vCenter=true&width=900&height=80&lines=Software+developer;Computer+Science+Professional;Competitive+Programmer;Interested+in+microservices;Always+learning+new+things"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=230px></picture>
-- :school: I am Junior software developer from Oracle One Next Generation.
+- :school: I am software developer from Oracle One Next Generation.
 - :technologist: Passionate software developer with a solid background in Js, Ts and Java.
 - :sparkles: Improving my soft skills day a day.
-- :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always learning new things.
 - :sparkles: My hobbies are playing videogames, soccer and ping pong.
 - :email: Contact: `jlinaresmedalla@gamil.com`.
