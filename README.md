@@ -2,14 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=C8BE25&size=26&center=true&vCenter=true&width=700&height=60&lines=Software+Developer;Computer+Science+Professional;Interested+in+Microservices;Always+learning+new+things" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=C8BE25&size=26&center=true&vCenter=true&width=700&height=60&lines=Semi+Senior+Fullstack+Engineer;React+%C2%B7+TypeScript+%C2%B7+.NET+%C2%B7+Python;Interested+in+Microservices;Always+learning+new+things" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvarolinaresmedalla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/linares_medalla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://t.me/Jlinaresm25"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:jlinaresmedalla@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -17,12 +15,15 @@
 
 ## 🧑‍💻 About me
 
-I'm a software developer trained through **Oracle Next Education (ONE)**, with a solid background in **JavaScript, TypeScript and Java**. I enjoy building clean, maintainable applications and I'm especially curious about **microservices** architecture.
+I'm a fullstack engineer working with **React, TypeScript, .NET and Python**. I've built enterprise platforms, fintech and banking products, and startup tools, and I'm especially interested in **microservices** and data-heavy systems.
 
-- 🎓 Computer Science professional, Oracle ONE graduate
-- 🌱 Constantly learning: new tools, new patterns, better habits
-- 🤝 Working on my soft skills, one day at a time
-- 🎮 Outside of code: videogames, soccer and ping pong
+- 🏢 Software Engineer at **INETUM**, working on Belcorp's planning platform for products, prices and sales campaigns across Latin America
+- ⚡ Cut a bulk-validation query from ~23 s to under 1 s, and PostgreSQL stored-procedure times by 30%
+- 🤖 Built an AI document-extraction service with FastAPI, a PostgreSQL job queue and Gemini
+- 🌱 Always learning new things and improving my soft skills day by day
+- 🕒 Timezone: GMT-5 (full overlap with US Eastern), available remote
+- 🗣️ Spanish (native), English (C1)
+- 🎮 Hobbies: videogames, soccer and ping pong
 
 ---
 
@@ -31,34 +32,22 @@ I'm a software developer trained through **Oracle Next Education (ONE)**, with a
 **Main**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,java,spring" alt="Main stack" />
+  <img src="https://skillicons.dev/icons?i=react,ts,dotnet,py,nodejs,postgres" alt="Main stack" />
 </p>
 
 **Also work with**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,docker,git,mysql,mongodb,postman" alt="Secondary stack" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" />
-</p>
-
-**Tools & IDEs**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" alt="IDEs" />
+  <img src="https://skillicons.dev/icons?i=js,cs,java,spring,fastapi,nestjs,nextjs,redux,tailwind,mysql,mongodb,redis,spark,aws,azure,docker,kubernetes,githubactions,git,jest" alt="Secondary stack" />
 </p>
 
 ---
 
-## 📫 Let's connect
+## 📫 Contact
 
-Open to interesting projects, collaboration and conversations about software.
-The quickest way to reach me is **[jlinaresmedalla@gmail.com](mailto:jlinaresmedalla@gmail.com)**.
-
-<!--
-Optional: re-enable GitHub stats once you want them.
+Open to interesting projects and conversations about software.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlinaresmedalla&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlinaresmedalla&layout=compact&theme=dark&hide_border=true&langs_count=5" height="150" alt="Top languages" />
+  <a href="https://www.linkedin.com/in/alvarolinaresmedalla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jlinaresmedalla@gmail.com"><img src="https://img.shields.io/badge/jlinaresmedalla@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
--->
