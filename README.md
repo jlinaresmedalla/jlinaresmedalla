@@ -33,7 +33,7 @@ I'm a fullstack engineer working with **React, TypeScript, .NET and Python**. I'
 **Also work with**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cs,java,spring,fastapi,nestjs,nextjs,redux,tailwind,mysql,mongodb,redis,spark,aws,azure,docker,kubernetes,githubactions,git,jest" alt="Secondary stack" />
+  <img src="https://skillicons.dev/icons?i=js,cs,java,spring,fastapi,nestjs,nextjs,redux,tailwind,mysql,mongodb,redis,aws,azure,docker,kubernetes,githubactions,git,jest" alt="Secondary stack" />
 </p>
 
 ---
